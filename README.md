@@ -1,1 +1,2 @@
 # Spirq
+Blog
