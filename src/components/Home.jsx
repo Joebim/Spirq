@@ -35,7 +35,7 @@ export default function Home() {
             </div>   
         </div>
 
-        <div className="container h-[100vh] bg-gray-200">
+        <div className="contain h-[100vh] bg-gray-200">
             
         </div>
 
